@@ -69,10 +69,11 @@ For this tree types of investment possibility flow is the same. Thus in the bott
 
 1. Potential users invest their funds in a Treasury (ERC-20) token in Art, Paper or buy insurance (ERC-721).
 2. In the backend specific functions are invoked.
-3. In the AquaProtocol contract specific amounts of the Treasure token are swapped between user account and contract creator maker (operator).
-4. In this POC example price of the investment possibility is in EURO currency. The Chainlink provider for GET requests is used to convert national currency to EURO.
-5. ERC-721 tokens are created.
-6. The status of the transaction is obtained from Kovan Etherscan API.
+3. The world state is updated.
+4. In the AquaProtocol contract specific amounts of the Treasure token are swapped between user account and contract creator maker (operator).
+5. In this POC example price of the investment possibility is in EURO currency. The Chainlink provider for GET requests is used to convert national currency to EURO.
+6. ERC-721 tokens are created.
+7. The status of the transaction is obtained from Kovan Etherscan API.
 
 ### Future:
 - Now the AquaProtocol's smart contract interface has the possibility to implement all ERC 20, ERC 721 tokens, future plans assume implement another smart contracts interface.

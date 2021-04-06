@@ -74,12 +74,12 @@ For this tree types of investment possibility flow is the same. Thus in the bott
 5. ERC-721 tokens are created.
 6. The status of the transaction is obtained from Kovan Etherscan API.
 
-###Future:
+### Future:
 - Now the AquaProtocol's smart contract interface has the possibility to implement all ERC 20, ERC 721 tokens, future plans assume implement another smart contracts interface.
 - Extension of the Open Banking API oracle on international payment.
 - Adding WebSocket in place of the Kovan Etherscan API for direct integration between blockchain events and Webpage.
 
-###Potential implementation:
+### Potential implementation:
 - Standard bank 
 - Blockchain’s swap protocols as the AAVE and the UniSwap.
 

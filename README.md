@@ -1,14 +1,12 @@
+# AquaProtocol
+
 #### Note
 The AquaProtocol is a project dedicated only for the Chainlink Virtual Hackathon 2021. And there is nothing to do with real projects with similar names.
 
-# AquaProtocol
-
-Chainlink Virtual Hackathon Spring 2021
-
+### Description
 The AquaProtocol is the decentralized investment platform where potential customers can deposit assets in a fiat currency or a crypto currency and then invest on the art, papers or buy insurance.
 During the fiat deposition is used an oracle with the Open Banking API.
 The Core of protocole is inspired by the AAVE solution.
-
 
 ### Important aspect:
 - Easy access for a new potential customer to the blockchain world;

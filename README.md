@@ -1,3 +1,6 @@
+#### Note
+The AquaProtocol is a project dedicated only for the Chainlink Virtual Hackathon 2021. And there is nothing to do with real projects with similar names.
+
 # AquaProtocol
 
 Chainlink Virtual Hackathon Spring 2021

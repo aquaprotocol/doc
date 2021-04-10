@@ -5,7 +5,7 @@ The AquaProtocol is a project dedicated only to the Chainlink Virtual Hackathon 
 
 ### Description
 The AquaProtocol is the decentralized investment platform where potential customers can deposit assets in a fiat currency or a cryptocurrency and then invest in the art, papers, or buy insurance. Purchases are possible in euro. For a money exchange between euro and national currency works the Chainlink oracle.
-During the fiat, deposition is used an oracle with the Open Banking API. 
+During the fiat, deposition is used an oracle with the Open Banking API. Smart contracts were installed in The Kovan Testnet.
 The Core of the protocol is inspired by the AAVE solution.
 
 ### Important aspect:
